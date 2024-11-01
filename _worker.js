@@ -47,7 +47,7 @@ function isUUID(uuid) {
     return uuidRegex.test(uuid);
 }
 
-async function nginx() {
+async function searchInterface() {
     const text = `
     <!DOCTYPE html>
 	<html lang="zh-CN">
