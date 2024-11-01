@@ -385,7 +385,7 @@ async function searchInterface() {
 	    </div>
 	
 	    <footer>
-	        <p>&copy; 2024 SZIS Tech. 保留所有权利。</p>
+	        <p>&copy; 2024 xx. 保留所有权利。</p>
 	    </footer>
 	    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
 	    <script>
